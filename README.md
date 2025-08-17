@@ -46,12 +46,14 @@ It integrates seamlessly with version control and CI/CD systems, making quality 
 
 ## Why Use SonarQube
 
-- Ensures **early detection** of issues before production  
-- Promotes **clean coding practices** across teams  
-- Provides **real-time feedback** through dashboards  
-- Helps enforce **compliance and security standards**  
-- Monitors **technical debt trends** over time  
-- Offers **customizable rule sets** for diverse projects and languages
+| Reason | Description |
+|--------|-------------|
+| Early Detection | Ensures **issues are caught before production**, reducing bugs and errors. |
+| Clean Coding Practices | Promotes **consistent and maintainable code** across teams. |
+| Real-Time Feedback | Provides **dashboards and metrics** for immediate insights on code quality. |
+| Compliance & Security | Helps enforce **coding standards, security rules, and regulations**. |
+| Technical Debt Monitoring | Tracks **technical debt trends** over time to prioritize improvements. |
+| Customizable Rules | Offers **flexible rule sets** tailored to different projects and programming languages. |
 
 ---
 
